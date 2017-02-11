@@ -61,6 +61,8 @@
 
 ## Install & Require
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/reconbot/oracle-sage.svg)](https://greenkeeper.io/)
+
 `$ npm install oracle-sage`
 
 ```javascript
